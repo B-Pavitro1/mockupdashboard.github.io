@@ -1,0 +1,144 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+i.fas.fa-arrow-left,
+i.fas.fa-arrow-right,
+i.fas.fa-times,
+i.fas.fa-home {
+  font-size: 25px;
+}
+
+.header-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin: 0;
+}
+
+nav.navbar.navbar-expand-lg.navbar-light {
+  padding: 0;
+}
+
+header {
+  background-color: #c1c1c1;
+}
+
+button.btn1 {
+  background-color: #fff;
+  border: 2px solid;
+  padding: 0;
+  width: 110px;
+  margin: 0 28px;
+  border-radius: 0;
+  box-shadow: 2px 4px;
+}
+
+h4.logo {
+  margin: 10px 31px;
+}
+
+input.form-control.me-2.flex-grow-1 {
+  border: 2px solid;
+}
+
+button.btn.btn-outline-success {
+  border: 2px solid;
+  color: #000;
+  border-color: #000;
+  background-color: #fff;
+}
+
+.container-fluid {
+  padding: 5px 10px;
+}
+
+.col-2,
+.col-10 {
+  border: 2px solid #000;
+}
+
+.row.body {
+  height: 517px;
+}
+
+.has-search .form-control {
+  padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 2.375rem;
+  height: 2.375rem;
+  line-height: 2.375rem;
+  text-align: center;
+  pointer-events: none;
+  color: #000;
+}
+
+input.form-control {
+  border: 2px solid;
+}
+
+.form-group.has-search {
+  width: 90%;
+  margin: 25px 10px;
+  display: flex;
+}
+
+i.fas.fa-user-circle {
+  margin-top: 23px;
+  font-size: 45px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+button.btn2 {
+  background-color: #fff;
+  margin-left: 10px;
+}
+
+button.btn3 {
+  float: inline-end;
+  border: none;
+  margin-right: 28px;
+  background-color: #fff;
+  text-decoration: underline;
+  font-weight: 500;
+}
+
+.border {
+  padding: 5rem;
+  cursor: pointer;
+  border: 2px solid !important;
+}
+
+.container {
+  margin-top: 12px;
+  padding: 0 10px;
+}
+
+span.recentv {
+  font-weight: 500;
+}
+
+.row.gx-5 {
+  margin-top: 10px;
+}
+
+span.pro {
+  font-weight: 500;
+}
+
+.row.footer {
+  height: 61px;
+  background-color: #c1c1c1;
+}
+
+section.bodysec {
+  overflow-x: hidden;
+}
